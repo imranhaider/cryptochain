@@ -1,0 +1,24 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "description": "Building a Blockchain and Cryptocurrency | Full-Stack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imranhaider/cryptochain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "cryptocurrency",
+    "full-stack"
+  ],
+  "author": "Imran Haider Ashraf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imranhaider/cryptochain/issues"
+  },
+  "homepage": "https://github.com/imranhaider/cryptochain#readme"
+}
